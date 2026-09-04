@@ -1,0 +1,6 @@
+posting_date,voucher_type,from_warehouse,to_warehouse,item_code,qty,purpose
+2026-08-01,Stock Entry,,Central Warehouse,LT-14,12,Material Receipt
+2026-08-01,Stock Entry,,Central Warehouse,DK-USBC,12,Material Receipt
+2026-08-03,Stock Entry,Central Warehouse,Field Staging,LT-14,8,Material Transfer
+2026-08-03,Stock Entry,Central Warehouse,Field Staging,DK-USBC,8,Material Transfer
+2026-08-05,Stock Reconciliation,Field Staging,,LT-14,-1,Physical count variance
